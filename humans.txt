@@ -1,0 +1,14 @@
+
+# Team
+Designer and developer: Daniel Mardunovich
+Site: localhost:4000
+Github: https://github.com/Sgtcatt
+Location: Kalmar, Sweden
+
+---
+
+# Tech
+
+## Software
+Visualstudio Code
+Git + Github

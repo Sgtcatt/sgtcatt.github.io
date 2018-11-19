@@ -3,17 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+Daniel mardunovich
 
-Hello! My name is Daniel Mardunovich and welcome to my super pro and very professional blog!
-A little aout me: Im studying IT in university and this blog is a part of that.
+University student, airport worker and a fulltime nerd.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Welcome to my blog :)
+
+<img align="right" style="margin-top:-180px;" src="/assets/student.png">
+
 
 
 [jekyll-organization]: https://github.com/jekyll
