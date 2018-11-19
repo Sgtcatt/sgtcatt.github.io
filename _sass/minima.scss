@@ -15,7 +15,7 @@ $background-color: rgb(15, 31, 49) !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       orange !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-light: lighten($grey-color, 0%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
